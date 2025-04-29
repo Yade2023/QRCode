@@ -1,0 +1,17 @@
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\bin\Debug\net8.0\QRCodeSystem.Infrastructure.deps.json
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\bin\Debug\net8.0\QRCodeSystem.Infrastructure.runtimeconfig.json
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\bin\Debug\net8.0\QRCodeSystem.Infrastructure.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\bin\Debug\net8.0\QRCodeSystem.Infrastructure.pdb
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\bin\Debug\net8.0\QRCodeSystem.Core.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\bin\Debug\net8.0\QRCodeSystem.Core.pdb
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSy.184C5DFD.Up2Date
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\refint\QRCodeSystem.Infrastructure.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.pdb
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\QRCodeSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Infrastructure\obj\Debug\net8.0\ref\QRCodeSystem.Infrastructure.dll

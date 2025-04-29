@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WOQ7DE76XB3Iv3V/kyvcCBLAxnV5b4U3CFJ5bHiJCt8=",
+  "Source": "QRCodeSystem.API",
+  "BasePath": "_content/QRCodeSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

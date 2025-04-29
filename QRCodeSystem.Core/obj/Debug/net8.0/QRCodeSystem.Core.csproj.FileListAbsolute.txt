@@ -1,0 +1,12 @@
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\bin\Debug\net8.0\QRCodeSystem.Core.deps.json
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\bin\Debug\net8.0\QRCodeSystem.Core.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\bin\Debug\net8.0\QRCodeSystem.Core.pdb
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\QRCodeSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\QRCodeSystem.Core.AssemblyInfoInputs.cache
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\QRCodeSystem.Core.AssemblyInfo.cs
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\QRCodeSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\QRCodeSystem.Core.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\refint\QRCodeSystem.Core.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\QRCodeSystem.Core.pdb
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\ref\QRCodeSystem.Core.dll
+C:\Users\徐承杰\Desktop\Drawio QRCode\QRCodeSystem.Core\obj\Debug\net8.0\QRCodeSystem.Core.csproj.AssemblyReference.cache

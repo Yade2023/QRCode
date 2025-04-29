@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "156FSCynxpo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\徐承杰\\Desktop\\Drawio QRCode\\QRCodeSystem.Core\\QRCodeSystem.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\徐承杰\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.4\\microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

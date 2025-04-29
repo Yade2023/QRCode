@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeSystem.API", "QRCodeSystem.API\QRCodeSystem.API.csproj", "{A94D3047-98B4-44B0-A8A2-2DB5019A57C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeSystem.Core", "QRCodeSystem.Core\QRCodeSystem.Core.csproj", "{29B347D8-393D-4C5E-BCC4-7DF1A25D11C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeSystem.Infrastructure", "QRCodeSystem.Infrastructure\QRCodeSystem.Infrastructure.csproj", "{452E5AD7-BB62-423E-AB03-CF03F5028FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94D3047-98B4-44B0-A8A2-2DB5019A57C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94D3047-98B4-44B0-A8A2-2DB5019A57C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94D3047-98B4-44B0-A8A2-2DB5019A57C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94D3047-98B4-44B0-A8A2-2DB5019A57C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B347D8-393D-4C5E-BCC4-7DF1A25D11C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B347D8-393D-4C5E-BCC4-7DF1A25D11C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B347D8-393D-4C5E-BCC4-7DF1A25D11C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B347D8-393D-4C5E-BCC4-7DF1A25D11C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452E5AD7-BB62-423E-AB03-CF03F5028FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452E5AD7-BB62-423E-AB03-CF03F5028FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452E5AD7-BB62-423E-AB03-CF03F5028FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452E5AD7-BB62-423E-AB03-CF03F5028FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
